@@ -1,5 +1,5 @@
 # lab10Web
-#PRAKTIKUM 10
+# PRAKTIKUM 10
 
 Buat file baru dengan nama mobil.php
 ![image](https://user-images.githubusercontent.com/101730390/171024669-84db672e-e78d-49c3-9fb1-c6d03dd3d866.png)
